@@ -102,7 +102,7 @@ At present **Computer Scientist** 🖥️ interested in Data Science and **Web D
 
 ### Image Digital Processing
 
-- [Image Filtering Editor]( https://github.com/Rogarpa/Portfolio/tree/DIP" )
+- [Image Filtering Editor]( https://github.com/Rogarpa/Portfolio/tree/DIP )
 
 > - Convolutional
 > - Morphological
@@ -115,7 +115,7 @@ At present **Computer Scientist** 🖥️ interested in Data Science and **Web D
 
 ### Deep Learning
 
-- [Object Detection]( https://github.com/Rogarpa/Portfolio/tree/NeuralNetwork" )
+- [Object Detection]( https://github.com/Rogarpa/Portfolio/tree/NeuralNetwork )
 
 > - Convolutional Neural Net Trainning
 
@@ -123,7 +123,7 @@ At present **Computer Scientist** 🖥️ interested in Data Science and **Web D
 
 ### Data Science
 
-- [Terrorism Data Minning]( https://github.com/Rogarpa/Portfolio/tree/DataMinning" )
+- [Terrorism Data Minning]( https://github.com/Rogarpa/Portfolio/tree/DataMinning )
 > - Data Cleanning
 > - Data Preprocessing
 > - Data Transformation
@@ -132,7 +132,7 @@ At present **Computer Scientist** 🖥️ interested in Data Science and **Web D
 
 ### Internet of Things
 
-- [ESP32 Projects]( https://github.com/Rogarpa/Portfolio/tree/IoT" )
+- [ESP32 Projects]( https://github.com/Rogarpa/Portfolio/tree/IoT )
 > - Connection with Google Assistant
 > - Connection with Telegram Bot
 
